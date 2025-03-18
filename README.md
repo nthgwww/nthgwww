@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ngoc Thong Ho
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Reactjs and NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Web Developer
 - 📫 How to reach me ... (contact.ngocthong@gmail.com)
 
 <!---
