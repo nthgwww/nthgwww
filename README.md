@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tommy, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Tommy, a Vietnamese Developer 👋🏼:
+🛜 currently working on Fullstack Developer <br>👨🏼‍🎓 studying media based computer science at UTC2 in Ho Chi Minh city<br>👨🏼‍💻 working as a web developer since 2023 <br>🎬 
 
 
 # 💻 Tech Stack:
