@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/originals/17/88/17/178817246e4d06d1c7b50c842aea2a0a.gif" alt="GitHub Banner" width="100%" height="25% !important" />
-
 # Hello World!, I'm Tommy, a Vietnamese Developer 👋🏼:
 🛜 currently working on Fullstack Developer <br>👨🏼‍🎓 studying media based computer science at UTC2 in Ho Chi Minh city<br>👨🏼‍💻 working as a web developer since 2023 <br>🎬 
 
